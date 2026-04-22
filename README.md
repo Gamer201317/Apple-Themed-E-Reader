@@ -62,8 +62,8 @@ Elpa Book is designed to be modular and customizable:
 
 Cost
 
-Estimated prototype cost: ~€125  
-(See BOM for detailed breakdown of components)
+Estimated prototype cost: ~€160  
+(and this is still cheaper and more storage than most eareeaders See BOM for detailed breakdown of components)
 
 
  Current status
