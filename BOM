@@ -1,8 +1,31 @@
-this are all the parts you will need to make the ereader 
+📦 Elpa eReader – Bill of Materials (BOM)
 
+🧠 Core System
+Component	Qty	Notes	Link
+Raspberry Pi Zero 2 W	1	Main controller / “brein” van de eReader	https://l1nk.dev/ueoe88d
 
-| Part                  | Description | Quantity | Link |
-|------                 |-------------|----------|------|
-| Raspberry Pi Zero 2 W | Main board     | 1   |https://l1nk.dev/ueoe88d|
-| 7" Touchscreen        | Display        | 1 ||
-| 3.7V LiPo Battery | Power | 1 | https://... |
+🖥️ Display
+Component	Qty	Notes	Link
+7” Touchscreen Display	1	Primary UI / reading screen	https://www.amazon.com/gp/product/B0C68QQCDW
+
+🔋 Power System
+Component	Qty	Notes	Link
+5000 mAh Li-ion Battery	1	Power source	https://www.amazon.nl/gp/product/B0FHW96BNQ
+Power Button Module	1	Hard on/off switch	https://nl.aliexpress.com/item/1005009049556408.html
+
+💾 Storage & Data
+Component	Qty	Notes	Link
+32 GB microSD Card	1	OS + main storage	https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099979960345
+4 GB microSD Card	1	Book transfer / backup storage	https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099979960345
+microSD SPI Reader Module	2	Extra storage interfaces	https://www.bitsandparts.nl/sd-card-reader-kaartlezer-breakout-board-module-spi-microsd-p100241
+
+🔌 Connectivity & Wiring
+Component	Qty	Notes	Link
+Cable Set (Type 1)	1	Internal wiring	https://nl.aliexpress.com/item/1005005373218322.html
+Cable Set (Type 2)	1	Additional connectors	https://nl.aliexpress.com/item/1005009179435663.html
+Cable Set (Type 3)	2	Extra jumper/wiring	https://nl.aliexpress.com/item/1005005373218322.html
+
+🧱 Mechanical / Enclosure
+Component	Qty	Notes	Link
+Heat-Set Insert Kit	1	For screw mounting inside case	https://nl.aliexpress.com/item/1005008897571758.html
+Small Magnets	1 set	Battery positioning / retention	https://nl.aliexpress.com/item/1005010079925987.html
